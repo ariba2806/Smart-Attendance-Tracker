@@ -1,0 +1,10 @@
+Py-Scripts/** filter=lfs diff=lfs merge=lfs -text
+Py-Scripts/mip_env/ filter=lfs diff=lfs merge=lfs -text
+*.css linguist-detectable=true
+*.css linguist-language=Node
+*.hbs linguist-language=Javascript
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pyc filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+*.wt filter=lfs diff=lfs merge=lfs -text

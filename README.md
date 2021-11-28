@@ -6,7 +6,7 @@ We have developed an attendance recorder which records attendance of the student
 
 We have managed to give all possible statistical analysis and hassle free management of attendance of their students.
 
-Detailed explanation of the project is given below.
+Detailed explanation of how to run the project is given below.
 
 
 

@@ -56,10 +56,7 @@ Update to the latest version of npm
     cd ./Py-Scripts
       python app.py
    ```
-3. Start the mongo server
-    ```sh
-    mongod --dbpath YOUR_PATH
-   ```
+3. The app uses local mongodb which is in the port 27017 so there is no need to add credentials of database anywhere
 4. If possible change the user and password in ```mail.js``` file to your mail username and password
 5. Then open ```localhost:3000``` in your PC and here is your attendance tracker
     
